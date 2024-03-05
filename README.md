@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruno746883
-- 👀 I’m interested in javascript 
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
